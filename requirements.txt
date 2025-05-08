@@ -8,3 +8,6 @@ openpyxl
 xlrd
 pmdarima
 prophet
+pymannkendall
+streamlit
+plotly
